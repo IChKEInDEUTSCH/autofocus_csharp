@@ -12,11 +12,12 @@ namespace autofocus_csharp
             PythonEngine.Initialize();
         }
         static void Main(string[] args){
+            string[] photo_path = new string[1]{"C:/Users/ryanr/Downloads/20230413_103128.jpg"};
             Initializer();
             using (Py.GIL())
             {
-                dynamic np = Py.Import("numpy");
-                Console.WriteLine(np.cos(np.pi * 2));
+                dynamic smooth = Py.Import("smoothing");
+                smooth.bilateral_blur(photo_path);
             }
         }
     }
