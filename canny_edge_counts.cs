@@ -9,7 +9,7 @@ namespace autofocus_csharp
         public static void Initializer()
         {
             string pythonDll = @"python310.dll";
-            //string pythonDll = @"C:\Users\ryanr\AppData\Local\Programs\Python\Python310\python310.dll";
+            //string pythonDll = @"C:\Users\xxxx\AppData\Local\Programs\Python\Python310\python310.dll";
             Environment.SetEnvironmentVariable("PYTHONNET_PYDLL", pythonDll);
             // dynamic dict = Environment.GetEnvironmentVariables();
             // foreach(string key in dict.Keys)
@@ -19,7 +19,7 @@ namespace autofocus_csharp
             PythonEngine.Initialize();
         }
         static void Main(string[] args){
-            string[] photo_path = new string[1]{"C:/Users/ryanr/Downloads/20230413_103128.jpg"};
+            string[] photo_path = new string[1]{"C:/Users/xxxx/Downloads/example.jpg"};
             Initializer();
             using (Py.GIL())
             {
