@@ -1,0 +1,17 @@
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\autofocus_csharp.csproj.AssemblyReference.cache
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\autofocus_csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\autofocus_csharp.AssemblyInfoInputs.cache
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\autofocus_csharp.AssemblyInfo.cs
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\autofocus_csharp.csproj.CoreCompileInputs.cache
+D:\Alltempo\autofocus_csharp\bin\Debug\net7.0\autofocus_csharp.exe
+D:\Alltempo\autofocus_csharp\bin\Debug\net7.0\autofocus_csharp.deps.json
+D:\Alltempo\autofocus_csharp\bin\Debug\net7.0\autofocus_csharp.runtimeconfig.json
+D:\Alltempo\autofocus_csharp\bin\Debug\net7.0\autofocus_csharp.dll
+D:\Alltempo\autofocus_csharp\bin\Debug\net7.0\autofocus_csharp.pdb
+D:\Alltempo\autofocus_csharp\bin\Debug\net7.0\Python.Runtime.dll
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\autofocus_csharp.csproj.CopyComplete
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\autofocus_csharp.dll
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\refint\autofocus_csharp.dll
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\autofocus_csharp.pdb
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\autofocus_csharp.genruntimeconfig.cache
+D:\Alltempo\autofocus_csharp\obj\Debug\net7.0\ref\autofocus_csharp.dll
