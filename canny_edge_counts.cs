@@ -24,6 +24,7 @@ namespace autofocus_csharp
             using (Py.GIL())
             {
                 dynamic np = Py.Import("numpy");
+                Console.WriteLine(np.cos(np.pi * 2));
                 dynamic cv = Py.Import("cv2");
             }
             PythonEngine.Shutdown();
